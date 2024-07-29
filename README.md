@@ -9,8 +9,7 @@ Let's explore the possibilities of AI together! 🚀
 # Data Science Portfolio
 During my academic career I have led initiatives leveraging advanced statistical techniques and machine learning algorithms to drive strategic decision-making. My experience includes not just analysis, but also effectively communicating data-driven narratives to stakeholders across diverse domains. Furthermore, this work led to significant advancements in science and was published in reknowned peer-reviewed scientific journals. The link to these publications is provided in each repository. 
 
-The Machine Learning and Advanced Analytics section showcases the main projects I have worked on during my academic career, in the form of Jupyter notebooks. 
-The Deep learning section presents data science projects completed for self learning, and hobby purposes.
+The Machine Learning and Advanced Analytics section showcases the main projects I have worked on during my academic career, in the form of Jupyter notebooks. The Deep learning section presents data science tools that were used during my Ph.D. For this section, all the projects are within the same repository.
 
 ## Machine Learning and Advanced Analytics
 
@@ -39,10 +38,23 @@ The Deep learning section presents data science projects completed for self lear
 - Development of three physics-based mathematical algorithms to explain new science observations.
 - Deployment of two evaporation models with a variety of input parameters.
 
-## Deep Learning
+## [Deep Learning] ()
 
-### []()
+### Shape Detection
+- Modification and Deployment of a Neural Network to detect microscope images.
+
+### Contour Detection
+- Deployment of a Neural Network to detect changes in high speed camera images.
+
+### Color Detection
+- Modification and Deployment of a Neural Network to detect changes in videos.
+
+### Image Classifier
+- Modification and Deployment of a Neural Network to classify high speed camera images.
+
+### Image Super Resolution
+- Modification and Deployment of a Neural Network to increase the resolution of high speed camera images. 
 
 ## Links
-[LinkedIn](https://www.linkedin.com/in/xavier-lefebvre-phd/)
+[LinkedIn](https://www.linkedin.com/in/xavier-lefebvre-phd/)  
 [Email](mailto:xavier.lefebvre008@gmail.com)
