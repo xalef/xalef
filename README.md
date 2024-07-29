@@ -27,7 +27,7 @@ The Machine Learning and Advanced Analytics section showcases the main projects 
 - Data cleaning, grouping of multiple datasets and handling large semi-structured datasets.
 - Development of a Classification model that predicts the viability of the pathogens inside the aerosol.
 
-### [Comparison]()
+### [Comparison](https://github.com/xalef/Comparaison/tree/main)
 - Data analytics and statistical analysis for the comparison of 4 datasets structured differently.
 - Definition of an Linear Regression model to link two variables.
 - Development of two physics-based mathematical algorithms to correct previous models.
