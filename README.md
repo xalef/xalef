@@ -38,7 +38,7 @@ The Machine Learning and Advanced Analytics section showcases the main projects 
 - Development of three physics-based mathematical algorithms to explain new science observations.
 - Deployment of two evaporation models with a variety of input parameters.
 
-## [Deep Learning] ()
+## [Deep Learning]()
 
 ### Shape Detection
 - Modification and Deployment of a Neural Network to detect microscope images.
