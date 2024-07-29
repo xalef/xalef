@@ -55,6 +55,11 @@ The Machine Learning and Advanced Analytics section showcases the main projects 
 ### Image Super Resolution
 - Modification and Deployment of a Neural Network to increase the resolution of high speed camera images. 
 
+## Other Scentific Contributions as a co-author
+- [Statistical model and data analytics](https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=Oy0XYGMAAAAJ&citation_for_view=Oy0XYGMAAAAJ:UeHWp8X0CEIC)
+- [Data analytics and Linear Regression model](https://www.sciencedirect.com/science/article/pii/S004313542201377X)
+
+
 ## Links
 [LinkedIn](https://www.linkedin.com/in/xavier-lefebvre-phd/)  
 [Email](mailto:xavier.lefebvre008@gmail.com)
