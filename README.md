@@ -13,14 +13,14 @@ The Machine Learning and Advanced Analytics section showcases the main projects 
 
 ## Machine Learning and Advanced Analytics
 
-### [Energy Assessment and Prediction](https://github.com/xalef/Evoqua_Final) 
+### [Large Building Management : Energy Assessment and Prediction](https://github.com/xalef/Evoqua_Final) 
 - Development of an algorithm that defines timeseries based on input parameters.
 - Data-driven convergence analysis to define the best input parameters for the algorithm. 
 - Data analytics and statistical analysis of the aerosol generation source.
 - Definition of a Linear Regression model for dimensional analysis.
 - Random Forest Regression machine learning model that predicts the energy saved by a large building using the novel technology.
  
-### [Airborne transmission : Analytics and Risks Prediction](https://github.com/xalef/CODE)
+### [Airborne Transmission : Analytics and Risks Prediction](https://github.com/xalef/CODE)
 - Development of a Statistical quantitative risk analysis model for airborne disease transmission
 - Data analytics and statistical analysis of the aerosol generation source.
 - Definition of a Linear Regression model for dimensional analysis.
