@@ -46,5 +46,5 @@ The Machine Learning and Advanced Analytics section showcases the main projects 
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/xavier-lefebvre-phd/)  
-[Email](mailto:xavier.lefebvre008@gmail.com)
+[Email](mailto:xavier.lefebvre008@gmail.com)  
 [Scientific Contributions](https://scholar.google.com/citations?user=Oy0XYGMAAAAJ&hl=fr)
