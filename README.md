@@ -13,26 +13,26 @@ The Machine Learning and Advanced Analytics section showcases the main projects 
 
 ## Machine Learning and Advanced Analytics
 
-### [Energy](https://github.com/xalef/Evoqua_Final) 
+### [Energy Assessment and Prediction](https://github.com/xalef/Evoqua_Final) 
 - Development of an algorithm that defines timeseries based on input parameters.
 - Data-driven convergence analysis to define the best input parameters for the algorithm. 
 - Data analytics and statistical analysis of the aerosol generation source.
 - Definition of a Linear Regression model for dimensional analysis.
 - Random Forest Regression machine learning model that predicts the energy saved by a large building using the novel technology.
  
-### [Airborne transmission](https://github.com/xalef/CODE)
+### [Airborne transmission : Analytics and Risks Prediction](https://github.com/xalef/CODE)
 - Development of a Statistical quantitative risk analysis model for airborne disease transmission
 - Data analytics and statistical analysis of the aerosol generation source.
 - Definition of a Linear Regression model for dimensional analysis.
 - Data cleaning, grouping of multiple datasets and handling large semi-structured datasets.
 - Development of a Classification model that predicts the viability of the pathogens inside the aerosol.
 
-### [Comparison](https://github.com/xalef/Comparaison/tree/main)
+### [Aerosol Measurement : Comparative Statistical Analysis](https://github.com/xalef/Comparaison/tree/main)
 - Data analytics and statistical analysis for the comparison of 4 datasets structured differently.
 - Definition of a Linear Regression model for dimensional analysis.
 - Development of two physics-based mathematical algorithms to correct previous models.
 
-### [Evaporation](https://github.com/xalef/Evaporation)
+### [Aerosol Evaporation : Mathematical Algorithms and Analytics](https://github.com/xalef/Evaporation)
 - Data analytics and statistical analysis of the aerosol generation source.
 - Definition of a Linear Regression model for dimensional analysis.
 - Development of three physics-based mathematical algorithms to explain new science observations.
