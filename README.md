@@ -38,12 +38,11 @@ The Machine Learning and Advanced Analytics section showcases the main projects 
 - Development of three physics-based mathematical algorithms to explain new science observations.
 - Deployment of two evaporation models with a variety of input parameters.
 
-## [Deep Learning]()
+## [Deep Learning Projects](https://github.com/xalef/Projects/tree/main)
 
-## Other Scentific Contributions as a co-author
+## Other Scentific Contributions
 - [Statistical model and data analytics](https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=Oy0XYGMAAAAJ&citation_for_view=Oy0XYGMAAAAJ:UeHWp8X0CEIC)
 - [Data analytics and Linear Regression model](https://www.sciencedirect.com/science/article/pii/S004313542201377X)
-
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/xavier-lefebvre-phd/)  
