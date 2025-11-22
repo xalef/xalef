@@ -11,6 +11,11 @@ During my academic career I have led initiatives leveraging advanced statistical
 
 The Machine Learning and Advanced Analytics section showcases the main projects I have worked on during my academic career, in the form of Jupyter notebooks. The Deep learning section presents data science tools that were used during my Ph.D. For this section, all the projects are within the same repository.
 
+## Large Language Models / Natural Lanquage Processing
+
+### [Summarization Model for French and English Documents](https://github.com/xalef/NLP-Papers)
+### [RAG State-of-the-Art Model](https://github.com/xalef/NLP-Papers)
+
 ## Machine Learning and Advanced Analytics
 
 ### [Large Building Management : Energy Assessment and Prediction](https://github.com/xalef/Evoqua_Final) 
