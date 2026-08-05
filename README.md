@@ -1,4 +1,4 @@
-👋 Hi, I’m Xavier Lefebvre, a soon-to-be Ph.D. graduate with Data Science experience. 
+👋 Hi, I’m Xavier Lefebvre, a Ph.D. graduate with Data Science experience. 
 
 With a solid foundation in complex mathematical modeling, statistics, and machine learning, 
 I bring unique blend of analytical rigor and problem-solving prowess, 
